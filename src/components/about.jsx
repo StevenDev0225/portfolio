@@ -50,7 +50,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Experienced senior full-stack developer with a strong background in building scalable web applications using Django, Vue.js, and AWS serverless technologies. Proven track record in designing and deploying complex projects including financial and insurance platforms, delivering enhanced functionality and user engagement. Skilled in integrating diverse APIs and managing large data sets to drive business outcomes."
+            "Experienced Senior Full-Stack Developer with a strong track record in designing and delivering scalable, high-performance web applications. Proficient in Django and Vue.js, with extensive experience leveraging AWS serverless technologies to build robust and cost-efficient solutions. Adept at developing complex projects across financial, insurance, and e-commerce domains, driving enhanced functionality, user engagement, and business growth.Skilled in integrating diverse APIs, managing large datasets, and optimizing workflows for seamless application performance. In addition to full-stack development, experienced in WordPress and Shopify development, including custom theme and plugin creation, responsive design, and e-commerce optimization, enabling clients to launch professional, user-friendly online platforms. Passionate about leveraging technology to solve real-world problems and deliver exceptional digital experiences."
         }
        
       ]
